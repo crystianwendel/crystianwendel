@@ -1,7 +1,6 @@
 - I'm Crystian Leão. 
 - I'm an experienced fullstack developer, with experience with backend (ruby on rails), frontend (html+css+js+react) and devops (docker/kubernetes/heroku/aws).
 - I'm currently working at https://www.rdmapps.com.br, where i am co-founder and director.
-- When i'm bored, i like to code and automate things for me, with mac os automator apps, telegram bots or simple web apps.
 - I'm not interested in any job offers right now, but thank you for passing by.
 
 <!---
